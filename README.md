@@ -2,8 +2,8 @@
 
 Remote Procedure Call (RPC) Server written in C.
 
-Author: Mitchell Elliott
-Email: mitch.elliott@pacbell.net
+<p>Author: Mitchell Elliott</p>
+<p>Email: mitch.elliott@pacbell.net</p>
 
 ## Program Operation
 
