@@ -1,7 +1,6 @@
 # rpc-server
 
-Remote Procedure Call (RPC) Server written in C.
-
+<p>Remote Procedure Call (RPC) Server written in C.</p>
 <p>Author: Mitchell Elliott</p>
 <p>Email: mitch.elliott@pacbell.net</p>
 
